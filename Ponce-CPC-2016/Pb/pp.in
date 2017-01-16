@@ -1,0 +1,6 @@
+ &bands
+    prefix='pb',
+    outdir='./',
+    filband = 'pbbands_noncol.dat'
+    lsym=.true.,
+ /
