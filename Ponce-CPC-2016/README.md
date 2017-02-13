@@ -1,7 +1,11 @@
-![EPW](http://epw.org.uk/figures/logo_v7.png =400x)
+<p align="center">
+  <img src="http://epw.org.uk/figures/logo_v7.png" width="400" />
+</p>
 
 # [EPW: Electron–phonon coupling, transport and superconducting properties using maximally localized Wannier functions](http://www.sciencedirect.com/science/article/pii/S0010465516302260)
-                              by S. Poncé, E.R. Margine, C. Verdi  and F. Giustino
+<p align="right">
+by S. Poncé, E.R. Margine, C. Verdi  and F. Giustino
+</p>
 
 ---
 
