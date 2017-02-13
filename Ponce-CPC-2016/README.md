@@ -1,7 +1,7 @@
-![EPW](http://epw.org.uk/figures/logo_v7.png)
+![EPW](http://epw.org.uk/figures/logo_v7.png =400x)
 
-# -> [EPW: Electron–phonon coupling, transport and superconducting properties using maximally localized Wannier functions](http://www.sciencedirect.com/science/article/pii/S0010465516302260)<-
-<div style="text-align: right"> by S. Poncé, E.R. Margine, C. Verdi  and F. Giustino</div>
+# [EPW: Electron–phonon coupling, transport and superconducting properties using maximally localized Wannier functions](http://www.sciencedirect.com/science/article/pii/S0010465516302260)
+                              by S. Poncé, E.R. Margine, C. Verdi  and F. Giustino
 
 ---
 
@@ -13,6 +13,7 @@ of B-doped diamond
 + EPW input files
 + PSP
 + Matlab scripts 
+
 Allow to reproduce Fig 5. and 6.
 
 ## MgB2
@@ -22,6 +23,7 @@ Contains data to compute superconducting properties of MgB2
 + PSP
 + Matlab scripts
 + Python scripts for the specific heat, Fermi gap, Fermi surface and free energy calculations
+
 Allow to reproduce Fig. 16,17,18,19,20, 21 and 22.
 
 ## Paper
@@ -38,6 +40,7 @@ without SOC
 + PSP
 + Matlab scripts
 + Python scripts
+
 Allow to reproduce Fig. 10,11,12,13 and 14 of the paper. 
 
 ## GaN
@@ -47,6 +50,7 @@ Contains the data for the polar coupling in GaN
 + PSP
 + Matlab scripts 
 + Modification to the ephwann_shuffle.f90 file needed to print the g's.
+
 Allow to reproduce Fig. 15 of the paper. 
 
 ## Si
@@ -55,6 +59,7 @@ Contains the data to compute the scattering rate of undoped Si.
 + EPW input file
 + PSP
 + Matlab scripts for the plots and post-processing
+
 Allow to reproduce Fig. 7, 8 and 9 of the paper. 
 
 
