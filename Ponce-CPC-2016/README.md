@@ -1,16 +1,17 @@
 # [EPW: Electron–phonon coupling, transport and superconducting properties using maximally localized Wannier functions](http://www.sciencedirect.com/science/article/pii/S0010465516302260)
-by S. Poncé, E.R. Margine, C. Verdi  and F. Giustino
+<div style="text-align: right"> by S. Poncé, E.R. Margine, C. Verdi  and F. Giustino</div>
+
 
 
 The structure of this additional documentation is as follow:
 ## B-diamond
 Contains the data to compute the spectral function and linewidths
 of B-doped diamond
-..* PW input files
-..* EPW input files
-..* PSP
-..* Matlab scripts 
-..* Allow to reproduce Fig 5. and 6.
++ PW input files
++ EPW input files
++ PSP
++ Matlab scripts 
++ Allow to reproduce Fig 5. and 6.
 
 ## MgB2
 Contains data to compute superconducting properties of MgB2
