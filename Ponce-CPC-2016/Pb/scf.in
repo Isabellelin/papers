@@ -1,22 +1,22 @@
  &control
     calculation='scf',
     prefix='pb',
-    pseudo_dir = '../pp/',
+    pseudo_dir = '../../pp/',
     outdir='./',
     tprnfor = .true.,
-    tstress = .true.,   
+    tstress = .true.,
     wf_collect = .true.
  /
- &system    
+ &system
     noncolin  = .true.,
     lspinorb  = .true.,
-    ibrav = 2, 
-    celldm(1) = 9.2225583816, 
-    nat=  1 , 
-    ntyp = 1 , 
+    ibrav = 2,
+    celldm(1) = 9.269771512,
+    nat=  1 ,
+    ntyp = 1 ,
     ecutwfc = 90,
     occupations = 'smearing',
-    degauss = 0.05
+    degauss = 0.01
  /
  &electrons
     mixing_beta = 0.7,
@@ -28,3 +28,4 @@ ATOMIC_POSITIONS crystal
 Pb        0.000000000   0.000000000   0.000000000
 K_POINTS AUTOMATIC
 8 8 8 1 1 1
+

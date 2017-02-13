@@ -6,14 +6,15 @@
     outdir='./'
     tprnfor=.true.
     tstress=.true.
+    wf_collect = .true.
     verbosity = 'high'
  /
  &system
     ibrav=2
-    celldm(1)= 10.1679975329
+    celldm(1)= 10.20755823
     nat = 2
     ntyp = 1
-    ecutwfc = 60
+    ecutwfc = 45
  /
  &electrons
     diagonalization='david'
@@ -21,7 +22,7 @@
     conv_thr=1.0d-10
  /
 ATOMIC_SPECIES
-  Si  28.0855  Si.pw-mt_fhi.UPF
+  Si  28.0855  Si.pz-vbc.UPF
 ATOMIC_POSITIONS alat
   Si   0.00  0.00  0.00
   Si   0.25  0.25  0.25
