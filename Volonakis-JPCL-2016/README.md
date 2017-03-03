@@ -29,7 +29,7 @@ Contains all the cell parameters and atomic coordinates for the following compou
  + Cs<sub>2</sub>BiCuCl<sub>6</sub>
  + Cs<sub>2</sub>BiCuI<sub>6</sub>
  + Cs<sub>2</sub>BiNaI<sub>6</sub>
- + MA2BiAgCl<sub>6</sub> (MA:CH<sub>3</sub>NH<sub>3</sub>)
+ + MA<sub>2</sub>BiAgCl<sub>6</sub> (MA:CH<sub>3</sub>NH<sub>3</sub>)
 
 + Antimony
  + Cs<sub>2</sub>SbAgBr<sub>6</sub>
