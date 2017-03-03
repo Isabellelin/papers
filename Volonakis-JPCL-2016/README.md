@@ -18,7 +18,25 @@ The additional documentation includes:
 Contains all the cell parameters and atomic coordinates for the following compounds, as discussed in-text.
 
 + Bismuth
-Cs<sub>2</sub>BiAgBr<sub>6</sub>, Cs<sub>2</sub>BiAg Cl<sub>6</sub>, Cs<sub>2</sub>BiAg Cl<sub>6</sub> Experimental, Cs<sub>2</sub>BiAgI<sub>6</sub>, Cs<sub>2</sub>BiAuBr<sub>6</sub>, <sub>2</sub>BiAu Cl<sub>6</sub>,  Cs<sub>2</sub>BiAuI<sub>6</sub>,  Cs<sub>2</sub>BiCuBr<sub>6</sub>,  Cs<sub>2</sub>BiCu Cl<sub>6</sub>,  Cs<sub>2</sub>BiCuI<sub>6</sub>,  Cs<sub>2</sub>BiNaI<sub>6</sub>, MA2BiAg Cl<sub>6</sub>
+ + Cs<sub>2</sub>BiAgBr<sub>6</sub>
+ + Cs<sub>2</sub>BiAgCl<sub>6</sub>
+ + Cs<sub>2</sub>BiAgCl<sub>6</sub> Experimental
+ + Cs<sub>2</sub>BiAgI<sub>6</sub>
+ + Cs<sub>2</sub>BiAuBr<sub>6</sub>
+ + Cs<sub>2</sub>BiAuCl<sub>6</sub>
+ + Cs<sub>2</sub>BiAuI<sub>6</sub>
+ + Cs<sub>2</sub>BiCuBr<sub>6</sub>
+ + Cs<sub>2</sub>BiCuCl<sub>6</sub>
+ + Cs<sub>2</sub>BiCuI<sub>6</sub>
+ + Cs<sub>2</sub>BiNaI<sub>6</sub>
+ + MA2BiAgCl<sub>6</sub> (MA:CH<sub>3</sub>NH<sub>3</sub>)
 
 + Antimony
-Cs<sub>2</sub>SbAgBr<sub>6</sub>,  Cs<sub>2</sub>SbAg Cl<sub>6</sub>,  Cs<sub>2</sub>SbAuBr<sub>6</sub>,  Cs<sub>2</sub>SbAu Cl<sub>6</sub>,  Cs<sub>2</sub>SbAuI<sub>6</sub>,  Cs<sub>2</sub>SbCuBr<sub>6</sub>,  Cs<sub>2</sub>SbCu Cl<sub>6</sub>,  Cs<sub>2</sub>SbCuI<sub>6</sub>
+ + Cs<sub>2</sub>SbAgBr<sub>6</sub>
+ + Cs<sub>2</sub>SbAgCl<sub>6</sub>
+ + Cs<sub>2</sub>SbAuBr<sub>6</sub>
+ + Cs<sub>2</sub>SbAuCl<sub>6</sub>
+ + Cs<sub>2</sub>SbAuI<sub>6</sub>
+ + Cs<sub>2</sub>SbCuBr<sub>6</sub>
+ + Cs<sub>2</sub>SbCuCl<sub>6</sub>
+ + Cs<sub>2</sub>SbCuI<sub>6</sub>
