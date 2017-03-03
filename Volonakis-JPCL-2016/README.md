@@ -34,6 +34,7 @@ Contains all the cell parameters and atomic coordinates for the following compou
 + Antimony
  + Cs<sub>2</sub>SbAgBr<sub>6</sub>
  + Cs<sub>2</sub>SbAgCl<sub>6</sub>
+ + Cs<sub>2</sub>SbAgI<sub>6</sub>
  + Cs<sub>2</sub>SbAuBr<sub>6</sub>
  + Cs<sub>2</sub>SbAuCl<sub>6</sub>
  + Cs<sub>2</sub>SbAuI<sub>6</sub>
