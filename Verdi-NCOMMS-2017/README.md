@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://epw.org.uk/figures/logo_v7.png" width="400" />
+  <img src="http://giustino.materials.ox.ac.uk/group-uploads/Main/NEWS.png" width="400" />
 </p>
 
 # [Origin of the crossover from polarons to Fermi liquids in transition metal oxides](https://www.nature.com/articles/ncomms15769)
@@ -9,61 +9,25 @@ by C. Verdi, F. Caruso and F. Giustino
 
 ---
 
-The structure of this additional documentation is as follow:
-## B-diamond
-Contains the data to compute the spectral function and linewidths
-of B-doped diamond
-+ PW input files
-+ EPW input files
-+ PSP
-+ Matlab scripts 
+This additional documentation includes:
+## inputs
+Contains the input files to compute:
++ electronic ground state;
++ phonons;
++ spectral functions (the epw inputs for the four different doping levels are labelled using the Fermi energy, in meV), 
+  including the k-paths;
++ perturbed wavefunctions, including the real space mesh (near the origin and around 15 unic cells away).
 
-Allow to reproduce Fig 5. and 6.
+## pseudo
+Pseudopotentials needed for the calculations.
 
-## MgB2
-Contains data to compute superconducting properties of MgB2
-+ PW input files
-+ EPW input files
-+ PSP
-+ Matlab scripts
-+ Python scripts for the specific heat, Fermi gap, Fermi surface and free energy calculations
+## data
+Contains data files to reproduce the figures. The file names start by the figure number.
 
-Allow to reproduce Fig. 16,17,18,19,20, 21 and 22.
+## code
+Modified version of EPW (working with QE6.0) including screening from doped electrons, and the perturbed wavefunction.
 
 ## Paper
-TeX file of the paper
-+ All .pdf or .png figues
-+ .bib file
-+ .pdf of the paper
-
-## Pb
-Contains the data for spectral function and electric resistivity of Pb with and 
-without SOC
-+ PW input files for the SOC case (wo SOC is easily obtained from there)
-+ EPW input files for the SOC case
-+ PSP
-+ Matlab scripts
-+ Python scripts
-
-Allow to reproduce Fig. 10,11,12,13 and 14 of the paper. 
-
-## GaN
-Contains the data for the polar coupling in GaN
-+ PW input files 
-+ EPW input files 
-+ PSP
-+ Matlab scripts 
-+ Modification to the ephwann_shuffle.f90 file needed to print the g's.
-
-Allow to reproduce Fig. 15 of the paper. 
-
-## Si
-Contains the data to compute the scattering rate of undoped Si.
-+ PW input files
-+ EPW input file
-+ PSP
-+ Matlab scripts for the plots and post-processing
-
-Allow to reproduce Fig. 7, 8 and 9 of the paper. 
+TeX file of the manuscript and supplementary information, .png figures from the manuscript.
 
 
