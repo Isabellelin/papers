@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="http://giustino.materials.ox.ac.uk/group-uploads/Main/marina2.jpeg" width="400" />
+  <img src="http://giustino.materials.ox.ac.uk/group-uploads/Main/Filip-natcom2018.png" width="400" />
 </p>
 
-# [Solution-Processed Cesium Hexabromopalladate(IV), Cs2PdBr6, for Optoelectronic Applications](http://pubs.acs.org/doi/abs/10.1021/jacs.6b13258)
+# [Bimolecular Recombination in Methylammonium Lead Triiodide Perovskite is an Inverse Absorption Process](https://doi.org/10.1103/PhysRevLett.119.087003)
 <p align="right">
-by N. Sakai, A. A. Haghighirad†, M. R. Filip, P. K. Nayak, S. Nayak, A. Ramadan , Z. Wang, F. Giustino and H. J. Snaith*†
+by C. L. Davies, M. R. Filip, J. B. Patel, T. W. Crothers, C. Verdi, A. D. Wright, R. L. Milot, F. Giustino, M. B. Johnston and L. M. Herz
 </p>
 
 ---
@@ -12,10 +12,16 @@ by N. Sakai, A. A. Haghighirad†, M. R. Filip, P. K. Nayak, S. Nayak, A. Ramada
 The additional documentation includes:
 
 ## Structure
-The primitive cell structure for Cs2PdBr6
+The crystal structure of methylammonium lead-iodide.
 
 ## Input files
-The input files for the DFT/PBE band structure and DFT/HSE calculations.
+The input files for the DFT/LDA calculations, Wannier Interpolation, GW calculations
 
 ## Data files
-The band structure, optical absorption and dielectric constant data files. 
+The band structure, optical matrix elements, joint density of states, optical absorption spectrum
+
+## Pseudopotentials
+Norm-conserving pseudopotentials used in calculations
+
+## Script for Figure 2. 
+Gnuplot script and eps figure.
