@@ -13,7 +13,7 @@ This additional documentation includes:
 ## inputs
 Contains input files for:
 + epw: input files for a Migdal-Eliashberg calculation (EPW v.4.0.0);
-+ phonons: input files for phonon calculations in the unit cell and a 2x2x1 supercell;
++ phonons: input files for phonon calculations in the unit cell;
 + pp: pseudopotential files;
 + sgw: input files for a SGW (v.6.1) calculation;
 
