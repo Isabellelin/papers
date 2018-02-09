@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://giustino.materials.ox.ac.uk/group-uploads/Main/NEWS.png" width="400" />
+  <img src="http://giustino.materials.ox.ac.uk/group-uploads/Main/cheil_prl119.png" width="400" />
 </p>
 
 # [Origin of Superconductivity and Latent Charge Density Wave in NbS2](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.087003)
