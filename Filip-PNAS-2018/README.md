@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://giustino.materials.ox.ac.uk/group-uploads/Main/Filip-natcom2018.png" width="400" />
+  <img src="http://giustino.materials.ox.ac.uk/group-uploads/Main/filip_pnas2018_res.png" width="400" />
 </p>
 
 # [The Geometric Blueprint of Perovskites](http://www.pnas.org/content/early/2018/05/01/1719179115.short)
