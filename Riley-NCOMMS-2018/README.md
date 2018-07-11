@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="http://giustino.materials.ox.ac.uk/group-uploads/Main/euo.png" width="400" />
+  <img src="http://giustino.materials.ox.ac.uk/group-uploads/Main/King2018.png" width="400" />
 </p>
 
-# [Crossover from lattice to plasmonic polarons of a spin-polarised electron gas in ferromagnetic EuO]()
+# [Crossover from lattice to plasmonic polarons of a spin-polarised electron gas in ferromagnetic EuO](https://www.nature.com/articles/s41467-018-04749-w)
 <p align="right">
 by J. M. Riley, F. Caruso, C. Verdi, L. B. Duffy, M. D. Watson, L. Bawden, 
 K. Volckaert, G. van der Laan, T. Hesjedal, M. Hoesch, F. Giustino, and P. D. C. King.
